@@ -6,6 +6,6 @@ Daftar kode dan data wilayah administrasi Indonesia berdasarkan [Peraturan Mente
 
 ### Download:
 
-- [MySQL dump (SQL)](kode_wilayah_indonesia.sql)
-- [PostgreSQL dump (BACKUP)](kode_wilayah_indonesia.backup)
-- [Microsoft Excel (XLSX)](kode_wilayah_indonesia.xlsx)
+- [MySQL dump (SQL)](https://raw.githubusercontent.com/hanreev/kode-wilayah-indonesia/main/kode_wilayah_indonesia.sql)
+- [PostgreSQL dump (BACKUP)](https://raw.githubusercontent.com/hanreev/kode-wilayah-indonesia/main/kode_wilayah_indonesia.backup)
+- [Microsoft Excel (XLSX)](https://raw.githubusercontent.com/hanreev/kode-wilayah-indonesia/main/kode_wilayah_indonesia.xlsx)

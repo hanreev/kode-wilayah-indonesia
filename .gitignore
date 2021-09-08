@@ -1,6 +1,7 @@
 /.vscode
 /output
-/__pycache__
-list-rekap-*.txt
-*.py
+__pycache__
+*.pyc
+
+/logs
 *.log

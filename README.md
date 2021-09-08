@@ -9,3 +9,4 @@ Daftar kode dan data wilayah administrasi Indonesia berdasarkan [Peraturan Mente
 - [MySQL dump (SQL)](https://raw.githubusercontent.com/hanreev/kode-wilayah-indonesia/main/kode_wilayah_indonesia.sql)
 - [PostgreSQL dump (BACKUP)](https://raw.githubusercontent.com/hanreev/kode-wilayah-indonesia/main/kode_wilayah_indonesia.backup)
 - [Microsoft Excel (XLSX)](https://raw.githubusercontent.com/hanreev/kode-wilayah-indonesia/main/kode_wilayah_indonesia.xlsx)
+- [SQLite3 database (DB)](https://raw.githubusercontent.com/hanreev/kode-wilayah-indonesia/main/kode_wilayah_indonesia.db)
